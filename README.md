@@ -1,6 +1,6 @@
 # ABINI NK
 **Data Scientist | AI Developer | Data Analyst**  
-*B.Com Graduate • Kochi, Kerala*
+*B.Com Graduate • Kozhikode, Kerala*
 
 Results-oriented Data & AI professional with a strong foundation in statistical analysis, predictive modeling, and business intelligence. Experienced in developing end-to-end machine learning pipelines and interactive data applications to solve complex business problems.
 
